@@ -1,0 +1,12 @@
+Cloud Account Creation and Instance Launch: 
+•	I created an account on a cloud platform e.g., Amazon Web Services (AWS)
+•	I launched a virtual server instance on the cloud platform. This instance is a virtual machine that provides computing resources like CPU, memory, and storage e.g., t2.micro on AWS.
+Putty Installation and Connection: 
+•	I installed PuTTY on my local machine. PuTTY is a free and popular SSH client that allows you to connect to and manage Linux servers.    
+•	I used PuTTY to establish a secure connection to the launched cloud instance. This connection provided me with a terminal interface to interact with the server
+Nginx Web Server Installation and Configuration:
+•	I installed Nginx, a web server software, on the cloud instance. Nginx is responsible for serving web pages and other content to users who visit the website.  
+•	I configured Nginx to serve a simple HTML website that I created. This configuration involved setting up the document root directory, which specifies the location of the website's files on the server.
+Website Deployment:
+•	I uploaded the simple HTML website files to the document root directory on the cloud instance. This can be done using various methods, such as SCP or the cloud platform's web console.  
+•	I verified that the website was accessible by opening a web browser and entering the public IP address of the cloud instance (or the domain name if you set one up).
